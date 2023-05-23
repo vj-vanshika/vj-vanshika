@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="https://i.imgur.com/rHlEdDq.gif" width="300" height="300"></a>
+<a href="#"><img src="https://i.imgur.com/rHlEdDq.gif" width="1600" height="400"></a>
 </p>
 <p align="center">
   <h3 align="center">Welcome Geeks! 👋</h3>
