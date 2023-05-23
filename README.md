@@ -1,11 +1,11 @@
 <p align="center">
-<a href="#"><img src="https://i.imgur.com/rHlEdDq.gif" width="1600" height="400"></a>
+<a href="#"><img src="https://i.imgur.com/rHlEdDq.gif" width="1600" height="300"></a>
 </p>
 <p align="center">
   <h3 align="center">Welcome Geeks! 👋</h3>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;I'm+an+ML+Enthusiast;I'm+an+Android+Developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+Developer;I'm+an+ML+Enthusiast;I'm+an+Android+Developer" height="40" /></a>
   </p>
   
   <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="300">
