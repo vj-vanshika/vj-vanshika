@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart and Firebase**
 
-- 🧐 I also dabble around **With Problem Solving**
+- 🧐 I also dabble around **with Problem Solving**
 
 - 💬 Ask me about **Front-end, NLP and Flutter**
 
