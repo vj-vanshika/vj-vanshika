@@ -73,9 +73,7 @@
 ------
   
   <p align="center">
-   <img src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif" width="50" />&nbsp; <b><i>Git outta my way, I'm gonna commit.</i></b> &nbsp;<img src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif" width="50" /> </p>
-  <br>
-  
+   <b><i>Git outta my way, I'm gonna commit.</i></b>  </p>
   <p align="center">
   <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
